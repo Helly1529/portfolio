@@ -864,7 +864,7 @@ function Certifications() {
       <motion.div variants={stagger} className="certs-wrap">
         <SectionTitle
           label="05 / Certifications"
-          title="Credentials & Achievements"
+          title="Certification"
           subtitle="Professional certifications that validate my expertise"
         />
         <div className="certs-grid">
