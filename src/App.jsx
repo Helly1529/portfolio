@@ -785,7 +785,7 @@ function Skills() {
       <motion.div variants={stagger} className="skills-wrap">
         <SectionTitle
           label="04 / Skills"
-          title="Technical Arsenal"
+          title="Skills"
           subtitle="Technologies and tools I work with"
         />
         <div className="skills-grid">
